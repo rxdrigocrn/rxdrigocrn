@@ -2,7 +2,7 @@
 
 <p align="left">🌱 Studying React 
   
-[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Cirino-00875f?style=flat-square&logo=Linkedin&color=blue&link=https://www.linkedin.com/in/rodrigo-cirino-34ba07232/)](https://www.linkedin.com/in/rodrigo-cirino-34ba07232/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Cirino-00875f?style=flat-square&logo=Linkedin&color=blue&link=https://www.linkedin.com/in/rodrigo-cirino/)](https://www.linkedin.com/in/rodrigo-cirino/) 
 [![Gmail Badge](https://img.shields.io/badge/-rodrigocirinocl@gmail.com-00875f?style=flat-square&logo=Gmail&color=blue&logoColor=white&link=mailto:rodrigocirinocl@gmail.com)](mailto:rodrigocirinocl@gmail.com)
 
 <div>
