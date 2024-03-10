@@ -1,27 +1,43 @@
-# Hi there, I'm Rodrigo 👋 
-
-<p align="left">🌱 Studying React 
   
-[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Cirino-00875f?style=flat-square&logo=Linkedin&color=blue&link=https://www.linkedin.com/in/rodrigo-cirino/)](https://www.linkedin.com/in/rodrigo-cirino/) 
-[![Gmail Badge](https://img.shields.io/badge/-rodrigocirinocl@gmail.com-00875f?style=flat-square&logo=Gmail&color=blue&logoColor=white&link=mailto:rodrigocirinocl@gmail.com)](mailto:rodrigocirinocl@gmail.com)
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<div>
-  <a href="https://github.com/rxdrigocrn">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rxdrigocrn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxdrigocrn&layout=compact&langs_count=7&theme=dark"/>
+###
+
+<p align="left">My name is Rodrigo and I'm a Student, from Fortaleza-CE.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rxdrigocrn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rxdrigocrn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
 
+<h2 align="left">About me</h2>
 
+###
 
+<p align="left">🌱 I'm currently learning React<br>🎯 Goals: become a full-stack developer based on JavaScript.</p>
 
-### Languages and Tools:
+###
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>
+<h2 align="left">I code with</h2>
 
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
 
+###
+
+[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Cirino-00875f?style=flat-square&logo=Linkedin&color=blue&link=https://www.linkedin.com/in/rodrigo-cirino/)](https://www.linkedin.com/in/rodrigo-cirino/) 
+[![Gmail Badge](https://img.shields.io/badge/-rodrigocirinocl@gmail.com-00875f?style=flat-square&logo=Gmail&color=blue&logoColor=white&link=mailto:rodrigocirinocl@gmail.com)](mailto:rodrigocirinocl@gmail.com)
 
