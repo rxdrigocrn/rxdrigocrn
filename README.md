@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Rodrigo and I'm a Student, from Fortaleza-CE.</p>
+<p align="left">My name is Rodrigo and I'm a Front-End Developer, from Fortaleza-CE.</p>
 
 ###
 
