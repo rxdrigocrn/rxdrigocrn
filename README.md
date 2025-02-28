@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🌱 I'm currently learning React<br>🎯 Goals: become a full-stack developer based on JavaScript.</p>
+<p align="left">🌱 I'm currently learning Typescript<br>🎯 Goals: become a full-stack developer based on JavaScript/Typescript.</p>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,bootstrap)](https://skillicons.dev)
 
 ###
 
