@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🌱 I'm currently learning Typescript<br>🎯 Goals: become a full-stack developer based on JavaScript/Typescript.</p>
+<p align="left">🌱 I'm currently learning Typescript<br></p>
 
 ###
 
