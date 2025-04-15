@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🌱 I'm currently learning Typescript<br></p>
+<p align="left">🌱 I'm currently working with Typescript and NextJS<br></p>
 
 ###
 
