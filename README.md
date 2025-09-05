@@ -26,7 +26,7 @@
 
 ###
 
-  [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,bootstrap,tailwind)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,bootstrap,tailwind,nextjs,nodejs,nestjs,docker)](https://skillicons.dev)
 
 ###
 
